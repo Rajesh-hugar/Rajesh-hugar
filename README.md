@@ -38,6 +38,16 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+
+<img src="https://github.com/Nikhil-Pandarge/Nikhil-Pandarge/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<br>
+<br>
+<br>
+🔭 You have finally discovered my Github profile!!
+<br>Thanks for stopping by!
+<br>
+<br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=RajeshXT&icon=0&color=0)](https://visitcount.itsvg.in)
 
